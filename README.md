@@ -1,2 +1,2 @@
-# meu-primeiro-reposit-rio
+# Meu primeiro repositorio
 Desafio de projeto DIO 
